@@ -6,6 +6,8 @@ The contract is deployed with three SHA-256 encrypted answers to the Sphinx ridd
 
 ![Contract Sample](/../media/jpg/contract_sample.jpg?raw=true "Contract Sample")
 
+Several hours after deployment, bgravan.eth submitted the correct answers on [`sphinxgame.wtf`](https://sphinxgame.wtf/) to win the pot: 69% of previous entry fees.
+
 ![Ether](/../media/jpg/etherscan.jpg?raw=true "Etherscan")
 
 
